@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 11512
+Build-Jdk: 14.0.1
+Implementation-Title: ingredient-service
+Implementation-Version: 0.0.18-SNAPSHOT
+Implementation-Vendor-Id: sia5
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/ingredient-service
+Created-By: Maven Integration for Eclipse
+
